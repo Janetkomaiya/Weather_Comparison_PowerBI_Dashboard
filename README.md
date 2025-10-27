@@ -65,4 +65,44 @@ The project demonstrates advanced Power BI capabilities — **data modeling, DAX
 
 ---
 
-## 📁 Repository Structure
+## 💡 What I Learned  
+- How to design **multi-page dashboards** that present comparative insights effectively  
+- Building **dynamic KPIs** using DAX functions  
+- Integrating **map visuals** and weather icons to enrich storytelling  
+- Creating clean and **color-coordinated layouts** for professional reporting  
+
+---
+
+## 🌍 Key Insights Summary  
+| Category | Lagos | Toronto | Key Observation |
+|-----------|--------|----------|----------------|
+| 🌡️ Average Temperature | 65.7°C | 49.9°C | Lagos shows higher consistent warmth |
+| ☀️ Max Temperature | 91.3°C | Lower | Toronto experiences broader variation |
+| 💧 Avg Humidity | 76% | 60% | Lagos maintains higher humidity |
+| ☔ Total Rainfall | 2.43 mm | Lower | Lagos records steadier rain patterns |
+
+**Insight Highlight:**  
+Lagos exhibits **stable tropical climate behavior**, while Toronto experiences **seasonal variability** and **lower humidity levels** — a classic contrast between tropical and temperate zones.
+
+---
+
+## 👩🏽‍💻 About the Author  
+**Janet Ifidon Komaiya**  
+_Data Analyst | Power BI Developer | Data Storyteller_  
+
+📍 Lagos, Nigeria  
+🔗 [LinkedIn](https://linkedin.com/in/janetkomaiya)  
+💼 Skills: Power BI · SQL · Excel · Data Visualization · Dashboard Design  
+
+---
+
+## ⭐ How to Explore  
+1. Download or clone this repository.  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Interact with the slicers and visuals to explore weather trends.  
+4. View screenshots for a quick overview.  
+
+---
+
+> “Data becomes powerful when transformed into stories that inform and inspire.”  
+> — *Janet Ifidon Komaiya*

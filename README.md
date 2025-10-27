@@ -1,94 +1,68 @@
-# 🌦️ Weather Comparison Power BI Dashboard — Lagos vs Toronto (Oct–Nov 2025)
+# 🌦️ Weather Comparison Power BI Dashboard  
+### _Analyzing Lagos vs. Toronto Weather Patterns (Oct – Nov 2025)_  
 
-### 📊 Project Overview
-This Power BI project analyzes **weather differences between Lagos and Toronto** across temperature, humidity, and rainfall metrics from **October to November 2025**.  
-It offers an interactive, visual storytelling approach to compare how two distinct climates behave over the same time frame — highlighting patterns in comfort levels, rainfall frequency, and atmospheric stability.
-
----
-
-## 🧠 Objectives
-- Compare **daily temperature trends** across two major cities.
-- Examine **humidity and comfort levels** to reveal atmospheric differences.
-- Analyze **rainfall intensity, probability, and weather frequency** patterns.
-- Provide data-driven insights for climate-based lifestyle or tourism analysis.
+![Dashboard Preview](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Lagos_vs_Toronto_Overview.png)
 
 ---
 
-## 🛠️ Tools Used
-- **Power BI Desktop** – Dashboard design and data visualization  
-- **Excel** – Data cleaning and preprocessing  
-- **Bing Maps (Power BI)** – Geo-location and mapping  
+## 🧠 Executive Summary  
+This Power BI project visualizes and compares **weather patterns between Lagos (Nigeria)** and **Toronto (Canada)** — two cities representing tropical and temperate climates.  
+By exploring **temperature, humidity, and rainfall trends**, the dashboard delivers a clear narrative of how climate differences shape environmental comfort and weather behavior.  
+
+The project demonstrates advanced Power BI capabilities — **data modeling, DAX calculations, KPI tracking, and dashboard storytelling** — making it an excellent showcase of analytical and visualization skills.
 
 ---
 
-## 🧩 Data Source
-The data used in this dashboard was obtained from **Visual Crossing Weather Data (2025)**, focusing on daily measurements between **October and November 2025**.
+## 🎯 Project Objectives  
+- Compare **daily average and maximum temperatures** between both cities.  
+- Analyze **humidity trends** to identify comfort differences.  
+- Visualize **rainfall volume and frequency** across time.  
+- Build a **clean, interactive Power BI dashboard** to present findings effectively.  
 
 ---
 
-## 📍 Dashboard Pages
+## 📊 Dashboard Pages  
 
-### 🩵 **1️⃣ Lagos vs Toronto — Temperature Overview**
-**Goal:** Compare daily temperature patterns, identify climate stability, and highlight temperature extremes.
-
-![Temperature Overview](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Lagos_vs_Toronto_Overview.png?raw=true)
-
-**Key Insights:**
-- Lagos recorded a higher and more stable average temperature (**65.7°C**) compared to Toronto (**49.9°C**).  
-- Temperature difference: **32.8°C**, with Lagos showing lower variability.  
-- Toronto displayed gradual cooling trends due to seasonal transitions.
+### 1️⃣ Lagos vs Toronto Overview  
+![Overview](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Lagos_vs_Toronto_Overview.png)  
+- KPIs for temperature, humidity, and rainfall.  
+- Temperature trend comparison and interactive slicers.  
+- Geo-map visualization of both locations.  
 
 ---
 
-### 💧 **2️⃣ Humidity & Comfort Levels**
-**Goal:** Explore atmospheric moisture and comfort differences across both cities.
-
-![Humidity and Comfort Trends](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Temperature_and_Humidity_trends.png?raw=true)
-
-**Key Insights:**
-- Average Humidity: **76%**
-- Maximum Humidity: **86.5%**
-- Minimum Humidity: **58.8%**
-- Lagos maintains higher and steadier humidity levels, while Toronto experiences sharper fluctuations.  
-- This reflects Lagos’s **tropical climate** and Toronto’s **temperate zone dynamics**.
+### 2️⃣ Humidity & Comfort Levels  
+![Humidity](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Temperature_and_Humidity_trends.png)  
+- Daily humidity comparison and comfort analysis.  
+- Pie chart showing Lagos’ higher humidity share.  
+- Trend lines showing stability vs fluctuation patterns.  
 
 ---
 
-### ☔ **3️⃣ Rainfall & Weather Patterns**
-**Goal:** Examine rainfall volume, frequency, and general weather distribution.
-
-![Rainfall and Weather Patterns](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Rainfall_and_Weather_Patterns.png?raw=true)
-
-**Key Insights:**
-- Total Rainfall: **2.43 mm**
-- Number of Rainy Days: **15**
-- Average Precipitation Probability: **71%**
-- Lagos had more frequent light rainfall; Toronto’s pattern shows intermittent but sharper precipitation bursts.
+### 3️⃣ Rainfall & Weather Conditions  
+![Rainfall](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Rainfall_and_Conditions.png)  
+- Total rainfall (mm), rainy days, and precipitation intensity.  
+- Breakdown of daily weather conditions.  
+- Spatial rainfall map comparing Lagos vs Toronto.  
 
 ---
 
-## 🎯 Summary of Insights
-| Metric | Lagos | Toronto | Observation |
-|:--|:--|:--|:--|
-| **Avg Temperature** | 65.7°C | 49.9°C | Lagos significantly warmer |
-| **Avg Humidity** | 76% | 71% | Lagos more humid |
-| **Total Rainfall** | 2.43 mm | 2.1 mm | Similar volume, different timing |
-| **Rainy Days** | 15 | 12 | Lagos slightly higher frequency |
+## 🔑 Key Insights  
+- 🌡️ **Lagos** maintained significantly higher and more stable temperatures (**avg 65.7°C**) than **Toronto**.  
+- ❄️ **Toronto** experienced sharper cooling trends and greater temperature variation.  
+- 💧 **Lagos’ average humidity (76%)** indicates a moist, tropical atmosphere, while **Toronto** shows drier air conditions.  
+- ☔ **Total rainfall of 2.43 mm** occurred across 15 rainy days, highlighting Lagos’ consistent precipitation patterns.  
 
 ---
 
-## 👩🏽‍💻 Dashboard Designer
-**Janet Ifidon Komaiya**  
-_Data Analyst | Power BI Developer | Data Storyteller_  
-📍 [GitHub Profile](https://github.com/Janetkomaiya)
+## 🧰 Tools & Technologies  
+| Tool | Purpose |
+|------|----------|
+| **Power BI** | Dashboard design, DAX measures, interactivity |
+| **Excel** | Data cleaning and preprocessing |
+| **DAX** | Custom KPIs and dynamic calculations |
+| **Data Visualization** | Insight communication through charts and maps |
 
 ---
 
-## 💬 Project Takeaway
-This dashboard demonstrates how **data visualization bridges environmental understanding** — turning raw weather data into actionable climate insights.  
-It’s a strong example of **comparative analytics** using **Power BI’s map visuals, KPIs, and line trends** to show measurable climate differences.
-
----
-
-### 🪄 Keywords
-`Power BI` · `Weather Dashboard` · `Data Visualization` · `Climate Analytics` · `Lagos vs Toronto` · `Comparative Analysis`
+## 📁 Repository Structure

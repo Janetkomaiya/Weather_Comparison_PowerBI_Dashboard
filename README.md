@@ -14,7 +14,7 @@ From average temperatures to rainfall intensity, this project demonstrates how d
 ### **Page 1 — Overview Dashboard**
 **Purpose:** Quick snapshot comparison between Lagos and Toronto.
 
-https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/tree/main
+![Lagos vs Toronto Overview](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard/blob/main/Lagos_vs_Toronto_Overview.png)
 
 **Visuals:**
 - 🌡 **Average Temperature (°C)**

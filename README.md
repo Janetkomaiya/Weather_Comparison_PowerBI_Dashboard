@@ -2,7 +2,10 @@
 
 ## 📊 Project Overview
 This Power BI dashboard compares **Lagos** and **Toronto** weather patterns over a two-week period (Oct–Nov 2025).  
-It provides a quick, visual contrast of both cities across temperature, humidity, and rainfall metrics using real-world meteorological data.
+
+Designed to reveal climate contrasts between tropical and temperate regions, the dashboard transforms raw weather data into actionable insights through interactive visuals.
+
+From average temperatures to rainfall intensity, this project demonstrates how data visualization bridges geography and climate understanding.
 
 ---
 
